@@ -10,7 +10,7 @@
 			"disableicontext": false,
 			"iconposition": 0,
 			"icontextcolor": 0,
-			"openonstart": true,
+			"openonstart": false,
 			"openonstartonlynewplayers": true,
 			"updateinterval": 12
 		},
@@ -22,7 +22,7 @@
 				"content": [
 					{
 						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Raven’s Dox2 quick guide</>",
-						"text": "<TextStyle.Orange>Survivor, welcome to your next evolution.</>\r\n\r\nYou’ve joined the Official Dox2 server network, where only the boldest prevail! Experience the ruthless, challenging DOX2 overhaul where every victory is hard-earned, and every setback is a chance to adapt and overcome.\r\n\r\n<TextStyle.Green>DOX2 Servers:</>\r\n\r\n<RichColor Color=\"1,0,1,1\">DOX2</>\r\n\r\r\n\r\n==============================================\r\n\r\nThis panel will server as your general server guide for both the features of DOX and general cluster features.\r\n\r\nJoin our Discord for help, guides, and more!"
+						"text": "<TextStyle.Orange>Survivor, welcome to your next evolution.</>\r\n\r\nYou’ve joined the Official Dox2 server network, where only the boldest prevail! Experience the ruthless, challenging DOX2 overhaul where every victory is hard-earned, and every setback is a chance to adapt and overcome.\r\n\r\n<TextStyle.Green>DOX2 OfficialServers:</>\r\n\r\n<RichColor Color=\"1,0,1,1\">Dino overhaul X 2 - Official Valguero (Medium Difficukty)</>\r\n\r\r\n\r\n==============================================\r\n\r\nThis panel will server as a general guide for DOX2\r\n\r\nJoin our Discord for help, guides, and more!"
 					},
 					{
 						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Players Online</>",
@@ -30,7 +30,7 @@
 					},
 					{
 						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Guide Index</>",
-						"text": "<TextStyle.Orange>Guide Tabs</>\r\nThis Guide Panel is broken up into multiple tabs, with the color of the tab corresponding to either a certain mod or feature-set:\r\n\r\n<RichColor Color=\"1,0.82,0.2,1\">DOX 2 Info</>\r\n\r\n<RichColor Color=\"0,1,0,1\">Dox2 Discord Server https://discord.gg/YHWTcWBK</>\r\n\r\n<RichColor Color=\"0.4,0.7,1,1\">Need help? come to the helpdesk</>"
+						"text": "<TextStyle.Orange>Guide Tabs</>\r\nFor the full DOX2 written guide here is a link - https://docs.google.com/spreadsheets/d/1-jrLSas6GdD1_o4m-1Rtc6cmBXgKCPtQodKp15-b3jE/edit?usp=sharing\r\n\r\n<RichColor Color=\"1,0.82,0.2,1\">Dox2 Discord Server https://discord.gg/YHWTcWBK</>\r\n\r\n<RichColor Color=\"0,1,0,1\">See a bug? make a report in the bug report forum</>\r\n\r\n<RichColor Color=\"0.4,0.7,1,1\">Need help? come to the helpdesk</>"
 					}
 				]
 			},
