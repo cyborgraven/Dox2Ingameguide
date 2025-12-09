@@ -22,7 +22,7 @@
 				"content": [
 					{
 						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Raven’s Dox2 quick guide</>",
-						"text": "<TextStyle.Orange>Survivor, welcome to your next evolution.</>\r\n\r\nYou’ve joined the Official Dox2 server network, where only the boldest prevail! Experience the ruthless, challenging DOX2 overhaul where every victory is hard-earned, and every setback is a chance to adapt and overcome.\r\n\r\n<TextStyle.Green>DOX2 Servers:</>\r\n\r\n<RichColor Color=\"1,0,1,1\">DOX2</>\r\n\r\r\n\r\n==============================================\r\n\r\nThis panel will server as your general server guide for both the features of DOX and general cluster features.\r\n\r\nJoin our Discord for help, other guides, and more!"
+						"text": "<TextStyle.Orange>Survivor, welcome to your next evolution.</>\r\n\r\nYou’ve joined the Official Dox2 server network, where only the boldest prevail! Experience the ruthless, challenging DOX2 overhaul where every victory is hard-earned, and every setback is a chance to adapt and overcome.\r\n\r\n<TextStyle.Green>DOX2 Servers:</>\r\n\r\n<RichColor Color=\"1,0,1,1\">DOX2</>\r\n\r\r\n\r\n==============================================\r\n\r\nThis panel will server as your general server guide for both the features of DOX and general cluster features.\r\n\r\nJoin our Discord for help, guides, and more!"
 					},
 					{
 						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Players Online</>",
@@ -30,7 +30,7 @@
 					},
 					{
 						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Guide Index</>",
-						"text": "<TextStyle.Orange>Guide Tabs</>\r\nThis Guide Panel is broken up into multiple tabs, with the color of the tab corresponding to either a certain mod or feature-set:\r\n\r\n<RichColor Color=\"1,0.82,0.2,1\">DOX 2 Info</>\r\n\r\n<RichColor Color=\"0,1,0,1\">Some Text Here</>\r\n\r\n<RichColor Color=\"0.4,0.7,1,1\">Cluster Features/Other Info</>"
+						"text": "<TextStyle.Orange>Guide Tabs</>\r\nThis Guide Panel is broken up into multiple tabs, with the color of the tab corresponding to either a certain mod or feature-set:\r\n\r\n<RichColor Color=\"1,0.82,0.2,1\">DOX 2 Info</>\r\n\r\n<RichColor Color=\"0,1,0,1\">Dox2 Discord Server https://discord.gg/YHWTcWBK</>\r\n\r\n<RichColor Color=\"0.4,0.7,1,1\">Need help? come to the helpdesk</>"
 					}
 				]
 			},
@@ -56,7 +56,7 @@
 					},
 					{
 						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Traits Explained</>",
-						"text": "Traits (What They Are & Why They Matter)\r\nTraits make your tames stronger, tougher, and faster. They’re essential for survival and a major focus of Dox2.\r\n\r\nView traits: In your dino’s inventory, press “Show Buffs” to see all current traits, paragon level, and bonuses.\r\n\r\nTraits can potentially come from taming, raising, fighting, and special consumables obtained through various methods including extracted from creatures.\r\n\r\nStack positive traits for huge boosts, each trait can potentially increases or decrease damage, reduction, or speed.\r\n\r\nTrait Data & Breakdown\r\nWild Traits (W): Up to 3 per dino, randomly assigned at tame/maturation to adult.\r\n\r\nNatural Traits (N): Up to 3, earned by killing or taking damage from worthy foes (equal/higher weight class).\r\n\r\nUnique Wild (UW) & Unique Natural (U): These higher tier natural traits each offer significant boosts as well as satisyfing some minimum requirements for earning Prime and Mega traits."
+						"text": "Traits (What They Are & Why They Matter)\r\nTraits make your tames stronger, tougher, and faster. They’re essential for survival and a major focus of Dox2.\r\n\r\nView traits: In your dino’s inventory, press “Show Buffs” to see all current traits, paragon level, and bonuses.\r\n\r\nTraits can potentially come from taming, raising, fighting, and special consumables obtained through various methods including extracted from creatures.\r\n\r\nStack positive traits for huge boosts, each trait can potentially increases or decrease damage, reduction, or speed.\r\n\r\nTrait Data & Breakdown\r\nWild Traits (W): Up to 3 per dino, randomly assigned at tame/maturation to adult.\r\n\r\nNatural Traits (N): Up to 3, earned by killing or taking damage from worthy foes (equal/higher weight class).\r\n\r\nUnique Wild (UW) & Unique Natural (U): These higher tier natural traits each offer significant boosts as well as satisyfing some minimum requirements for earning Prime and Mega traits.\r\n\r\nPrime (P) & Mega (M): These are the pinnacle traits available only to Alpha tier and up creatures, giving huge maximum health increases, and powerful stat boosts as well as some very special passive abilities"
 					}
 				]
 			},
