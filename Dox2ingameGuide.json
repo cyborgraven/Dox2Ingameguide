@@ -30,7 +30,7 @@
 					},
 					{
 						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Guide Index</>",
-						"text": "<TextStyle.Orange>Guide Tabs</>\r\nFor the full DOX2 written guide here is a link - https://docs.google.com/spreadsheets/d/1-jrLSas6GdD1_o4m-1Rtc6cmBXgKCPtQodKp15-b3jE/edit?usp=sharing\r\n\r\n<RichColor Color=\"1,0.82,0.2,1\">Dox2 Discord Server https://discord.gg/YHWTcWBK</>\r\n\r\n<RichColor Color=\"0,1,0,1\">See a bug? make a report in the bug report forum</>\r\n\r\n<RichColor Color=\"0.4,0.7,1,1\">Need help? come to the helpdesk</>"
+						"text": "<TextStyle.Orange>Guide Tabs</>\r\nFor the full DOX2 written guide here is a link - \r\n\r\n<RichColor Color=\"1,0.82,0.2,1\">Dox2 Discord Server https://discord.gg/YHWTcWBK</>\r\n\r\n<RichColor Color=\"0,1,0,1\">See a bug? make a report in the bug report forum</>\r\n\r\n<RichColor Color=\"0.4,0.7,1,1\">Need help? come to the helpdesk</>"
 					}
 				]
 			},
