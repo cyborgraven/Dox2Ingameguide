@@ -75,19 +75,61 @@
 
 
       {
-  "layout": 3,
-  "buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Trait Values</>",
-  "content": [
-    {
-      "title": "<RichColor Color=\"1,0.82,0.2,1\">Wild Traits (W)</>",
-      "text": "<RichColor Color=\"0.8,0.5,0.2,1\">Tough</>\n<RichColor Color=\"0.2,1,0.2,1\">DMG +10</> | <RichColor Color=\"0.2,0.6,1,1\">DR +10</> | <RichColor Color=\"1,0.3,0.3,1\">SPD -5</>\n\n<RichColor Color=\"0.8,0.5,0.2,1\">Balanced</>\n<RichColor Color=\"0.2,1,0.2,1\">DMG +7.5</> | <RichColor Color=\"0.2,0.6,1,1\">DR +5</> | <RichColor Color=\"0.26,0.96,0.96,1\">SPD +5</>\n\n<RichColor Color=\"0.8,0.5,0.2,1\">Runner</>\n<RichColor Color=\"1,0.3,0.3,1\">DMG -5</> | DR +0 | <RichColor Color=\"0.26,0.96,0.96,1\">SPD +15</>\n\n<RichColor Color=\"0.8,0.5,0.2,1\">Brawler</>\n<RichColor Color=\"0.2,1,0.2,1\">DMG +15</> | <RichColor Color=\"0.2,0.6,1,1\">DR +2.5</> | <RichColor Color=\"1,0.3,0.3,1\">SPD -5</>"
-    },
-    {
-      "title": "<RichColor Color=\"1,0.82,0.2,1\">Prime & Mega</>",
-      "text": "<RichColor Color=\"0.26,0.96,0.31,1\">Prime (P)</>\n<RichColor Color=\"0.2,1,0.2,1\">DMG +25</> | <RichColor Color=\"0.2,0.6,1,1\">DR +15</> | <RichColor Color=\"0.26,0.96,0.96,1\">SPD +5</>\n\n<RichColor Color=\"1,0,0,1\">Mega (M)</>\n<RichColor Color=\"0.2,1,0.2,1\">DMG +30</> | <RichColor Color=\"0.2,0.6,1,1\">DR +20</> | <RichColor Color=\"1,0.3,0.3,1\">SPD -5</>"
-    }
-  ]
-}
+
+        "layout": 3,
+
+        "buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Trait Values</>",
+
+        "content": [
+
+          {
+
+            "title": "<RichColor Color=\"1,0.82,0.2,1\">Wild Traits (W)</>",
+
+            "text":
+
+            "<RichColor Color=\"0.8,0.5,0.2,1\">Tough</>\n" +
+
+            "<RichColor Color=\"0.2,1,0.2,1\">DMG +10</> | <RichColor Color=\"0.2,0.6,1,1\">DR +10</> | <RichColor Color=\"1,0.3,0.3,1\">SPD -5</>\n\n" +
+
+
+            "<RichColor Color=\"0.8,0.5,0.2,1\">Balanced</>\n" +
+
+            "<RichColor Color=\"0.2,1,0.2,1\">DMG +7.5</> | <RichColor Color=\"0.2,0.6,1,1\">DR +5</> | <RichColor Color=\"0.26,0.96,0.96,1\">SPD +5</>\n\n" +
+
+
+            "<RichColor Color=\"0.8,0.5,0.2,1\">Runner</>\n" +
+
+            "<RichColor Color=\"1,0.3,0.3,1\">DMG -5</> | DR +0 | <RichColor Color=\"0.26,0.96,0.96,1\">SPD +15</>\n\n" +
+
+
+            "<RichColor Color=\"0.8,0.5,0.2,1\">Brawler</>\n" +
+
+            "<RichColor Color=\"0.2,1,0.2,1\">DMG +15</> | <RichColor Color=\"0.2,0.6,1,1\">DR +2.5</> | <RichColor Color=\"1,0.3,0.3,1\">SPD -5</>"
+
+          },
+
+
+          {
+
+            "title": "<RichColor Color=\"1,0.82,0.2,1\">Prime & Mega</>",
+
+            "text":
+
+            "<RichColor Color=\"0.26,0.96,0.31,1\">Prime (P)</>\n" +
+
+            "<RichColor Color=\"0.2,1,0.2,1\">DMG +25</> | <RichColor Color=\"0.2,0.6,1,1\">DR +15</> | <RichColor Color=\"0.26,0.96,0.96,1\">SPD +5</>\n\n" +
+
+
+            "<RichColor Color=\"1,0,0,1\">Mega (M)</>\n" +
+
+            "<RichColor Color=\"0.2,1,0.2,1\">DMG +30</> | <RichColor Color=\"0.2,0.6,1,1\">DR +20</> | <RichColor Color=\"1,0.3,0.3,1\">SPD -5</>"
+
+          }
+
+        ]
+
+      }
 
     ],
 
@@ -109,4 +151,3 @@
   }
 
 }
-
