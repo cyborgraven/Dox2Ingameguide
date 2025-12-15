@@ -12,7 +12,7 @@
 			"icontextcolor": 0,
 			"openonstart": false,
 			"openonstartonlynewplayers": true,
-			"updateinterval": .25
+			"updateinterval": 12
 		},
 		"tabs": [
 			{
@@ -60,7 +60,7 @@
 					}
 				]
 			},
-		
+			
 			{
 				"layout": 3,
 				"buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Paragon & Progression</>",
