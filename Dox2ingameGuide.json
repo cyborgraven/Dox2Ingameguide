@@ -1,141 +1,130 @@
 {
-    "WBUI2": {
-        "settings": {
-            "openbutton": 0,
-            "hideicon": true,
-            "hideiconafter": 10,
-            "iconurl": "https://i.imgur.com/uI8GFbn.png",
-            "disableicontext": false,
-            "iconposition": 0,
-            "icontextcolor": 0,
-            "openonstart": false,
-            "openonstartonlynewplayers": true,
-            "updateinterval": 12
-        },
-        "tabs": [
-            {
-                "layout": 3,
-                "buttontext": "<RichColor Color=\"0.20,0.55,1,1\">Welcome!</>",
-                "imageurl": "https://83374.media.forgecdn.net/attachments/776/224/dox2-logo.png",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Raven’s Dox2 quick guide</>",
-                        "text": "<TextStyle.Orange>Survivor, welcome to your next evolution.</>\r\n\r\nYou’ve joined the Official Dox2 server network, where only the boldest prevail! Experience the ruthless, challenging DOX2 overhaul where every victory is hard-earned, and every setback is a chance to adapt and overcome.\r\n\r\n<TextStyle.Green>DOX2 OfficialServers:</>\r\n\r\n<RichColor Color=\"1,0,1,1\">Dino overhaul X 2 - Official Valguero (Medium Difficukty)</>\r\n\r\r\n\r\n==============================================\r\n\r\nThis panel will server as a general guide for DOX2\r\n\r\nJoin our Discord for help, guides, and more!"
-                    },
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Players Online</>",
-                        "text": "{playerlist}"
-                    },
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Guide Index</>",
-                        "text": "<TextStyle.Orange>Guide Tabs</>\r\nFor the full DOX2 written guide here is a link - \r\n\r\n<RichColor Color=\"1,0.82,0.2,1\">Dox2 Discord Server https://discord.gg/YHWTcWBK</>\r\n\r\n<RichColor Color=\"0,1,0,1\">See a bug? make a report in the bug report forum</>\r\n\r\n<RichColor Color=\"0.4,0.7,1,1\">Need help? come to the helpdesk</>"
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Starting DOX2</>",
-                "imageurl": "https://i.imgur.com/B4X8mFA.jpeg",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Getting Started</>",
-                        "text": "<TextStyle.Orange>Welcome to Dino Overhaul X 2!</>\r\n\r\nDOX2 will test your skill, patience, and resolve. You’ll lose tames and gear, face setbacks, and sometimes get wiped by surprise. That’s normal, keep going and you’ll get stronger and overcome the odds!\r\n\r\n<TextStyle.Green>First Things to Do:</>\r\n\r\nDon’t rush to tame. Secure a safe base first—caves, cliffs, or hard-to-reach places are best.\r\n\r\n<RichColor Color=\"1,0,0,1\">Avoid power leveling</>! Leveling up too quickly can cause harder enemies and events to appear as they are level based.\r\n\r\nHunt small creatures for early Hunter XP and key resources.\r\n\r\nKill alpha creatures you can handle for genetic strings and loot.\r\n\r\nMake your first major goal after securing a place to operate - the DOX Crafting Station and a few Hunter XP Storage Orbs.\r\n\r\nRemember six main sources of power: your mount, mount paragon level, pygmy, enhanced armor, upgrades/crystals, and potions\r\n\r\n<TextStyle.Green>Quick Reference: “Power Sources”</>\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Mount:</> Main combat partner—choose and breed wisely.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Paragon Level:</> Mount’s DOX experience; raises 3 main Dox2 stats.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Pygmy:</> Shoulder pet that boosts your mounts Dox2 stats.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Enhanced Armor:</> Dox2 enhanced armors provide stat boosts for your player and mount, rider protection (requires a full set of same type armor), environment protection, and various special abilities.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Upgrades & Potions:</> Permanent upgrade crystals equipped to your hotbar, and consumable potions that give temporary buffs for added edge in difficult fights."
-                    }
-                ]
-            },
-            {
-                "layout": 2,
-                "buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Taming & Traits</>",
-                "imageurl": "https://83374.media.forgecdn.net/attachments/1237/131/corruptionnecrosisvein-copy.jpg",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Taming DOX Creatures</>",
-                        "text": "DOX2 taming is <RichColor Color=\"1,0,1,1\">hands-on!</> You can’t tranq and force feed like vanilla Ark taming.\r\n\r\nDOX2 taming uses a combination of a unique resource called Hunter Xp which is gained from defeating foes, and either the passive hand-feeding method along with their favorite food equipped to the last spot of your hotbar, OR the “drop method” where you drop kibble or preferred food onto the ground within 20m.\r\n\r\nEffective for aggressive or hard-to-approach creatures, but this method costs more Hunter XP and kibble but is generally safer.\r\n\r\nSome special creatures (Manticores, Dragons, Wyverns, Drakes, Golems etc.) have unique taming systems—check for special requirements.\r\n\r\n<RichColor Color=\"0.26,0.96,0.31,1\">“Buffed”</> wilds (like Juiced, Extra XP, Corrupted) drop special loot and resources—hunt them for faster progress!\r\n\r\nTaming Quick Facts\r\nHand-feed: Safer for non-aggressives, higher effectiveness, uses less Hunter XP.\r\n\r\nDrop food: Needed for aggressives, works faster, but needs more Hunter XP and kibble.\r\n\r\nSpecial dino taming: Some creatures require their own taming methods - Spyglass mods can reveal tooltips that may be helpful.\r\n\r\nHunter XP: Gained by killing creatures, used for taming and re-rolling stats on enhanced armors via the Dox Summoning Shrine.\r\n\r\nAlpha creatures: Creatures able to be raised to prime and mega status, the bread and butter of your available mounts.  Wild Alphas may drop genetic strings that are vital for progression."
-                    },
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Traits Explained</>",
-                        "text": "Traits (What They Are & Why They Matter)\r\nTraits make your tames stronger, tougher, and faster. They’re essential for survival and a major focus of Dox2.\r\n\r\nView traits: In your dino’s inventory, press “Show Buffs” to see all current traits, paragon level, and bonuses.\r\n\r\nTraits can potentially come from taming, raising, fighting, and special consumables obtained through various methods including extracted from creatures.\r\n\r\nStack positive traits for huge boosts, each trait can potentially increases or decrease damage, reduction, or speed.\r\n\r\nTrait Data & Breakdown\r\nWild Traits (W): Up to 3 per dino, randomly assigned at tame/maturation to adult.\r\n\r\nNatural Traits (N): Up to 3, earned by killing or taking damage from worthy foes (equal/higher weight class).\r\n\r\nUnique Wild (UW) & Unique Natural (U): These higher tier natural traits each offer significant boosts as well as satisyfing some minimum requirements for earning Prime and Mega traits.\r\n\r\nPrime (P) & Mega (M): These are the pinnacle traits available only to Alpha tier and up creatures, giving huge maximum health increases, and powerful stat boosts as well as some very special passive abilities"
-                    }
-                ]
-            },
-            {
-                "layout": 3,
-                "buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Paragon & Progression</>",
-                "imageurl": "https://83374.media.forgecdn.net/attachments/1108/521/titandesmo.png",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Paragon Levels</>",
-                        "text": "<TextStyle.Orange>Paragon Levels</>\r\nParagon levels are your mount’s combat experience in DOX2. Each level makes your creature permanently stronger.\r\n\r\nEarn paragon by defeating wild creatures. Higher-level, alpha, and boss type enemies grant higher amounts.\r\n\r\nEach paragon level (up to 10, “Warlord”) gives a permanent <RichColor Color=\"0.26,0.96,0.31,1\">+1.5</>–<RichColor Color=\"0.26,0.96,0.31,1\">3%</> damage AND damage reduction.\r\n\r\nThe “Warlord” title (level 10) adds another <RichColor Color=\"0.26,0.96,0.31,1\">5%</> damage. Beware, as it also enables a small chance for Mega Champions to spawn upon defeating normal Megas!"
-                    },
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Pygmys</>",
-                        "text": "Pygmys are shoulder sized versions of creatures that give potentially <RichColor Color=\"1,0.2,0.72,1\">MASSIVE</> buffs to your mount (not your player) while sitting on your shoulder.\r\n\r\nTheir power depends on their traits like other tames, but Pygmys (more specifically Prime and Mega Pygmys) have a range of power (<RichColor Color=\"0.26,0.96,0.31,1\">5</>-<RichColor Color=\"0.26,0.96,0.31,1\">35%</>) they can bestow that is determined when they are created.\r\n\r\n<RichColor Color=\"1,0,0,1\">WARNING</>: Pygmys are fragile—earn traits via consumables and extracted traits instead of combat when possible.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Important Pygmy Details</>\r\n\r\n<RichColor Color=\"0.26,0.96,0.31,1\">Boosts to Your Mount</>: Damage, Damage Reduction, and Movement Speed.  (Some special primordial Pygmys exist that offer additional unique buffs) \r\n\r\n<RichColor Color=\"0.26,0.96,0.31,1\">Pygmy Kibble</>: Place at least 2 kibble in the last slot of your hotbar and simply approach a Pygmy; they will automatically take kibble and there is a chance every feeding that they will tame. \r\n\r\n<RichColor Color=\"0.26,0.96,0.31,1\">Creating Pygmys</>: Pygmys can also be created using varying strengths of Pygmy Evo kibbles.  Simply feed a creature a piece of Evo kibble and their traits will be reset and they will gain random Pygmy traits."
-                    },
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Early Progression Tips</>",
-                        "text": "Hunt and kill weaker alpha type creatures such as dodos, compys and Dilos for generic strings.  Later, hunt larger alpha creatures sych as Argys and Rexes for superior genetic strings. \r\n\r\nTame a few alpha dodos for breeding (you need fertilized alpha dodo eggs to craft Pygmy kibble) \r\n\r\nMake sure to get an advanced spyglass equipped to see additional buffs such as “extra xp”,  “extra loot”, and “infestation festers” and kill these creatures for additional rewards including artifact fragments and progression materials.\r\n\r\nWatch for the Overlord flyby, as he will empower creatures making them more dangerous but also more rewarding.  (These also drop artifact fragments needed for early game progression)"
-                    }
-                ]
-            },
-            {
-                "layout": 3,
-                "buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Armor & Upgrades</>",
-                "imageurl": "https://i.imgur.com/VP9Ckfe.jpeg",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Enhanced Armor</>",
-                        "text": "Enhanced Armor\r\n\r\nEnhanced armor sets are your main protection and a massive power boost after early game - they boost damage, damage reduction, and movement speed on your mount, as well as providing your mount with some various abilties. \r\nWhile mixing and matching armor types provides small set bonuses per piece (at 2 and 3 pieces of one type equipped you receive set bonuses) it is recommended to equip a full set of one type of armor asap to gain the “Enhanced Armor Protection” and the “Environment Protection” buffs.\r\n\r\nEnhanced Armor Protection buff - prevents your player from being killed off the back of your mount by boss types like Prime and Mega creatures, and special attacks such as breath attacks from Wyverns etc. \r\n\r\nEnvironment Protection buff - provides immunity to poison gas, and radiation as well as providing a massive boost to insulation against extreme heat and cold. \r\n\r\nEarly game if you do not have a full set of enhanced armor and must battle boss type creatures, be sure to craft some Impenetrable Potions they can provide you these buffs for a short time if needed. \r\n\r\nEnhanced Armor can be looted from Seekers, Doppelgängers, bounties, golden dodos, Megas, Primordials and up. \r\n\r\nAfter early game it is possible to use the Summoning Shrine to reroll the random lines of stats on Enhanced Armor in exchange for Hunter Xp, make sure to try to do this for extra power when you can afford to."
-                    },
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Potions & Temporary Buffs</>",
-                        "text": "Potions & Temporary Buffs\r\n\r\nCraft and use a dozen different Potions for temporary, but powerful effects as preperation for boss fights, or top-offs during encounters.  HP Regen Elixirs can be used from your hotbar and provide you or your mount with 10 seconds of powerful healing.  (Be aware there is a small cooldown between uses, so time wisely) \r\n\r\nSome rare genetic strings can also provide massive temporary buffs to combat stats when force-fed to your mount."
-                    },
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Permanent Upgrades</>",
-                        "text": "Crystals\r\n\r\nCraft special Crystals for permanent passive buffs (put crystals on your hotbar to receive buffs)\r\nCrystals are crafted from genetic materials, artifact fragments, corruption crystal shards, and warlord shards. \r\n\r\nIngredients come from empowered and corrupted creatures, Megas, Mega champions, and global buffed creatures (extra xp, extra loot, juiced, infestation festers)\r\nCollect all crystals for the best long-term power-up!"
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "<RichColor Color=\"1,0.82,0.2,1\">FAQ</>",
-                "imageurl": "https://i.imgur.com/rjfbWLw.jpeg",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0.8,0.5,0.2,1\">Frequently Asked Questions</>",
-                        "text": "\"Why can't I tame this dino?\"\r\n-Not enough hunter XP, maybe it is temporarily untamebale as it just killed something. Check the spyglass mod readout for clues\"Purple\" glow means it didn't like your offering. Check your buffs to see if your taming buff is red or green!\r\n\r\n\"Why am I dying so much?\"\r\n-DOX2 is tough by design! Stack up traits, armor, pygmys, and upgrades.\r\n\r\n\"How do I see my tame's stats and buffs?\"\r\n-Open your tame's inventory and use \"Show Buffs.\"\r\n\r\n\"How do I progress early?\"\r\n-Build safe, kill small creatures for XP, don't rush tames, always prepare for setbacks, and focus on upgrading your power sources!"
-                    }
-                ]
-            },
-            {
-  "layout": 3,
-  "buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Trait Values</>",
-  "content": [
-    {
-      "title": "<RichColor Color=\"1,0.82,0.2,1\">Wild Traits (W)</>",
-      "text": "<RichColor Color=\"0.8,0.5,0.2,1\">Tough</>\n<RichColor Color=\"0.2,1,0.2,1\">DMG +10</> | <RichColor Color=\"0.2,0.6,1,1\">DR +10</> | <RichColor Color=\"1,0.3,0.3,1\">SPD -5</>\n\n<RichColor Color=\"0.8,0.5,0.2,1\">Balanced</>\n<RichColor Color=\"0.2,1,0.2,1\">DMG +7.5</> | <RichColor Color=\"0.2,0.6,1,1\">DR +5</> | <RichColor Color=\"0.26,0.96,0.96,1\">SPD +5</>\n\n<RichColor Color=\"0.8,0.5,0.2,1\">Runner</>\n<RichColor Color=\"1,0.3,0.3,1\">DMG -5</> | DR +0 | <RichColor Color=\"0.26,0.96,0.96,1\">SPD +15</>\n\n<RichColor Color=\"0.8,0.5,0.2,1\">Brawler</>\n<RichColor Color=\"0.2,1,0.2,1\">DMG +15</> | <RichColor Color=\"0.2,0.6,1,1\">DR +2.5</> | <RichColor Color=\"1,0.3,0.3,1\">SPD -5</>"
-    },
-    {
-      "title": "<RichColor Color=\"1,0.82,0.2,1\">Prime & Mega</>",
-      "text": "<RichColor Color=\"0.26,0.96,0.31,1\">Prime (P)</>\n<RichColor Color=\"0.2,1,0.2,1\">DMG +25</> | <RichColor Color=\"0.2,0.6,1,1\">DR +15</> | <RichColor Color=\"0.26,0.96,0.96,1\">SPD +5</>\n\n<RichColor Color=\"1,0,0,1\">Mega (M)</>\n<RichColor Color=\"0.2,1,0.2,1\">DMG +30</> | <RichColor Color=\"0.2,0.6,1,1\">DR +20</> | <RichColor Color=\"1,0.3,0.3,1\">SPD -5</>"
-    }
-  ]
-}
-        ],
-        "links": [
-            {
-                "text": "<RichColor Color=\"1,0.2,0.72,1\">\"How to Tame\" Video</>",
-                "url": "https://www.youtube.com/watch?v=iyAHjiosM8o&list=PL-lJKbdoWs2lfrhvpyfg561656SBn8d3Y&index=3&pp=iAQB"
-            },
-            {
-                "text": "<RichColor Color=\"1,0.2,0.72,1\">\"How to Get Traits\" Video</>",
-                "url": "https://www.youtube.com/watch?v=F6deI7-gjiw&list=PL-lJKbdoWs2lfrhvpyfg561656SBn8d3Y&index=2&pp=iAQB"
-            },
-            {
-                "text": "<RichColor Color=\"1,0.2,0.72,1\">\"How to Tame Legacy Alphas\" Video</>",
-                "url": "https://www.youtube.com/watch?v=NoA232LqoI0&list=PL-lJKbdoWs2lfrhvpyfg561656SBn8d3Y&index=1&pp=iAQB"
-            }
-        ],
-        "version": 2
-    }
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 10,
+			"iconurl": "https://i.imgur.com/uI8GFbn.png",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": false,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 3,
+				"buttontext": "<RichColor Color=\"0.20,0.55,1,1\">Welcome!</>",
+				"imageurl": "https://83374.media.forgecdn.net/attachments/776/224/dox2-logo.png",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Raven’s Dox2 quick guide</>",
+						"text": "<TextStyle.Orange>Survivor, welcome to your next evolution.</>\r\n\r\nYou’ve joined the Official Dox2 server network, where only the boldest prevail! Experience the ruthless, challenging DOX2 overhaul where every victory is hard-earned, and every setback is a chance to adapt and overcome.\r\n\r\n<TextStyle.Green>DOX2 OfficialServers:</>\r\n\r\n<RichColor Color=\"1,0,1,1\">Dino overhaul X 2 - Official Valguero (Medium Difficukty)</>\r\n\r\r\n\r\n==============================================\r\n\r\nThis panel will server as a general guide for DOX2\r\n\r\nJoin our Discord for help, guides, and more!"
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Players Online</>",
+						"text": "{playerlist}"
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Guide Index</>",
+						"text": "<TextStyle.Orange>Guide Tabs</>\r\nFor the full DOX2 written guide here is a link - \r\n\r\n<RichColor Color=\"1,0.82,0.2,1\">Dox2 Discord Server https://discord.gg/YHWTcWBK</>\r\n\r\n<RichColor Color=\"0,1,0,1\">See a bug? make a report in the bug report forum</>\r\n\r\n<RichColor Color=\"0.4,0.7,1,1\">Need help? come to the helpdesk</>"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Starting DOX2</>",
+				"imageurl": "https://i.imgur.com/B4X8mFA.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Getting Started</>",
+						"text": "<TextStyle.Orange>Welcome to Dino Overhaul X 2!</>\r\n\r\nDOX2 will test your skill, patience, and resolve. You’ll lose tames and gear, face setbacks, and sometimes get wiped by surprise. That’s normal, keep going and you’ll get stronger and overcome the odds!\r\n\r\n<TextStyle.Green>First Things to Do:</>\r\n\r\nDon’t rush to tame. Secure a safe base first—caves, cliffs, or hard-to-reach places are best.\r\n\r\n<RichColor Color=\"1,0,0,1\">Avoid power leveling</>! Leveling up too quickly can cause harder enemies and events to appear as they are level based.\r\n\r\nHunt small creatures for early Hunter XP and key resources.\r\n\r\nKill alpha creatures you can handle for genetic strings and loot.\r\n\r\nMake your first major goal after securing a place to operate - the DOX Crafting Station and a few Hunter XP Storage Orbs.\r\n\r\nRemember six main sources of power: your mount, mount paragon level, pygmy, enhanced armor, upgrades/crystals, and potions\r\n\r\n<TextStyle.Green>Quick Reference: “Power Sources”</>\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Mount:</> Main combat partner—choose and breed wisely.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Paragon Level:</> Mount’s DOX experience; raises 3 main Dox2 stats.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Pygmy:</> Shoulder pet that boosts your mounts Dox2 stats.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Enhanced Armor:</> Dox2 enhanced armors provide stat boosts for your player and mount, rider protection (requires a full set of same type armor), environment protection, and various special abilities.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Upgrades & Potions:</> Permanent upgrade crystals equipped to your hotbar, and consumable potions that give temporary buffs for added edge in difficult fights."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Taming & Traits</>",
+				"imageurl": "https://83374.media.forgecdn.net/attachments/1237/131/corruptionnecrosisvein-copy.jpg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Taming DOX Creatures</>",
+						"text": "DOX2 taming is <RichColor Color=\"1,0,1,1\">hands-on!</> You can’t tranq and force feed like vanilla Ark taming.\r\n\r\nDOX2 taming uses a combination of a unique resource called Hunter Xp which is gained from defeating foes, and either the passive hand-feeding method along with their favorite food equipped to the last spot of your hotbar, OR the “drop method” where you drop kibble or preferred food onto the ground within 20m.\r\n\r\nEffective for aggressive or hard-to-approach creatures, but this method costs more Hunter XP and kibble but is generally safer.\r\n\r\nSome special creatures (Manticores, Dragons, Wyverns, Drakes, Golems etc.) have unique taming systems—check for special requirements.\r\n\r\n<RichColor Color=\"0.26,0.96,0.31,1\">“Buffed”</> wilds (like Juiced, Extra XP, Corrupted) drop special loot and resources—hunt them for faster progress!\r\n\r\nTaming Quick Facts\r\nHand-feed: Safer for non-aggressives, higher effectiveness, uses less Hunter XP.\r\n\r\nDrop food: Needed for aggressives, works faster, but needs more Hunter XP and kibble.\r\n\r\nSpecial dino taming: Some creatures require their own taming methods - Spyglass mods can reveal tooltips that may be helpful.\r\n\r\nHunter XP: Gained by killing creatures, used for taming and re-rolling stats on enhanced armors via the Dox Summoning Shrine.\r\n\r\nAlpha creatures: Creatures able to be raised to prime and mega status, the bread and butter of your available mounts.  Wild Alphas may drop genetic strings that are vital for progression."
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Traits Explained</>",
+						"text": "Traits (What They Are & Why They Matter)\r\nTraits make your tames stronger, tougher, and faster. They’re essential for survival and a major focus of Dox2.\r\n\r\nView traits: In your dino’s inventory, press “Show Buffs” to see all current traits, paragon level, and bonuses.\r\n\r\nTraits can potentially come from taming, raising, fighting, and special consumables obtained through various methods including extracted from creatures.\r\n\r\nStack positive traits for huge boosts, each trait can potentially increases or decrease damage, reduction, or speed.\r\n\r\nTrait Data & Breakdown\r\nWild Traits (W): Up to 3 per dino, randomly assigned at tame/maturation to adult.\r\n\r\nNatural Traits (N): Up to 3, earned by killing or taking damage from worthy foes (equal/higher weight class).\r\n\r\nUnique Wild (UW) & Unique Natural (U): These higher tier natural traits each offer significant boosts as well as satisyfing some minimum requirements for earning Prime and Mega traits.\r\n\r\nPrime (P) & Mega (M): These are the pinnacle traits available only to Alpha tier and up creatures, giving huge maximum health increases, and powerful stat boosts as well as some very special passive abilities"
+					}
+				]
+			},
+		
+			{
+				"layout": 3,
+				"buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Paragon & Progression</>",
+				"imageurl": "https://83374.media.forgecdn.net/attachments/1108/521/titandesmo.png",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Paragon Levels</>",
+						"text": "<TextStyle.Orange>Paragon Levels</>\r\nParagon levels are your mount’s combat experience in DOX2. Each level makes your creature permanently stronger.\r\n\r\nEarn paragon by defeating wild creatures. Higher-level, alpha, and boss type enemies grant higher amounts.\r\n\r\nEach paragon level (up to 10, “Warlord”) gives a permanent <RichColor Color=\"0.26,0.96,0.31,1\">+1.5</>–<RichColor Color=\"0.26,0.96,0.31,1\">3%</> damage AND damage reduction.\r\n\r\nThe “Warlord” title (level 10) adds another <RichColor Color=\"0.26,0.96,0.31,1\">5%</> damage. Beware, as it also enables a small chance for Mega Champions to spawn upon defeating normal Megas!"
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Pygmys</>",
+						"text": "Pygmys are shoulder sized versions of creatures that give potentially <RichColor Color=\"1,0.2,0.72,1\">MASSIVE</> buffs to your mount (not your player) while sitting on your shoulder.\r\n\r\nTheir power depends on their traits like other tames, but Pygmys (more specifically Prime and Mega Pygmys) have a range of power (<RichColor Color=\"0.26,0.96,0.31,1\">5</>-<RichColor Color=\"0.26,0.96,0.31,1\">35%</>) they can bestow that is determined when they are created.\r\n\r\n<RichColor Color=\"1,0,0,1\">WARNING</>: Pygmys are fragile—earn traits via consumables and extracted traits instead of combat when possible.\r\n\r\n<RichColor Color=\"0.20,0.55,1,1\">Important Pygmy Details</>\r\n\r\n<RichColor Color=\"0.26,0.96,0.31,1\">Boosts to Your Mount</>: Damage, Damage Reduction, and Movement Speed.  (Some special primordial Pygmys exist that offer additional unique buffs) \r\n\r\n<RichColor Color=\"0.26,0.96,0.31,1\">Pygmy Kibble</>: Place at least 2 kibble in the last slot of your hotbar and simply approach a Pygmy; they will automatically take kibble and there is a chance every feeding that they will tame. \r\n\r\n<RichColor Color=\"0.26,0.96,0.31,1\">Creating Pygmys</>: Pygmys can also be created using varying strengths of Pygmy Evo kibbles.  Simply feed a creature a piece of Evo kibble and their traits will be reset and they will gain random Pygmy traits."
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Early Progression Tips</>",
+						"text": "Hunt and kill weaker alpha type creatures such as dodos, compys and Dilos for generic strings.  Later, hunt larger alpha creatures sych as Argys and Rexes for superior genetic strings. \r\n\r\nTame a few alpha dodos for breeding (you need fertilized alpha dodo eggs to craft Pygmy kibble) \r\n\r\nMake sure to get an advanced spyglass equipped to see additional buffs such as “extra xp”,  “extra loot”, and “infestation festers” and kill these creatures for additional rewards including artifact fragments and progression materials.\r\n\r\nWatch for the Overlord flyby, as he will empower creatures making them more dangerous but also more rewarding.  (These also drop artifact fragments needed for early game progression)"
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "<RichColor Color=\"1,0.82,0.2,1\">Armor & Upgrades</>",
+				"imageurl": "https://i.imgur.com/VP9Ckfe.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Enhanced Armor</>",
+						"text": "Enhanced Armor\r\n\r\nEnhanced armor sets are your main protection and a massive power boost after early game - they boost damage, damage reduction, and movement speed on your mount, as well as providing your mount with some various abilties. \r\nWhile mixing and matching armor types provides small set bonuses per piece (at 2 and 3 pieces of one type equipped you receive set bonuses) it is recommended to equip a full set of one type of armor asap to gain the “Enhanced Armor Protection” and the “Environment Protection” buffs.\r\n\r\nEnhanced Armor Protection buff - prevents your player from being killed off the back of your mount by boss types like Prime and Mega creatures, and special attacks such as breath attacks from Wyverns etc. \r\n\r\nEnvironment Protection buff - provides immunity to poison gas, and radiation as well as providing a massive boost to insulation against extreme heat and cold. \r\n\r\nEarly game if you do not have a full set of enhanced armor and must battle boss type creatures, be sure to craft some Impenetrable Potions they can provide you these buffs for a short time if needed. \r\n\r\nEnhanced Armor can be looted from Seekers, Doppelgängers, bounties, golden dodos, Megas, Primordials and up. \r\n\r\nAfter early game it is possible to use the Summoning Shrine to reroll the random lines of stats on Enhanced Armor in exchange for Hunter Xp, make sure to try to do this for extra power when you can afford to."
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Potions & Temporary Buffs</>",
+						"text": "Potions & Temporary Buffs\r\n\r\nCraft and use a dozen different Potions for temporary, but powerful effects as preperation for boss fights, or top-offs during encounters.  HP Regen Elixirs can be used from your hotbar and provide you or your mount with 10 seconds of powerful healing.  (Be aware there is a small cooldown between uses, so time wisely) \r\n\r\nSome rare genetic strings can also provide massive temporary buffs to combat stats when force-fed to your mount."
+					},
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Permanent Upgrades</>",
+						"text": "Crystals\r\n\r\nCraft special Crystals for permanent passive buffs (put crystals on your hotbar to receive buffs)\r\nCrystals are crafted from genetic materials, artifact fragments, corruption crystal shards, and warlord shards. \r\n\r\nIngredients come from empowered and corrupted creatures, Megas, Mega champions, and global buffed creatures (extra xp, extra loot, juiced, infestation festers)\r\nCollect all crystals for the best long-term power-up!"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<RichColor Color=\"1,0.82,0.2,1\">FAQ</>",
+				"imageurl": "https://i.imgur.com/rjfbWLw.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.8,0.5,0.2,1\">Frequently Asked Questions</>",
+						"text": "\"Why can't I tame this dino?\"\r\n-Not enough hunter XP, maybe it is temporarily untamebale as it just killed something. Check the spyglass mod readout for clues\"Purple\" glow means it didn't like your offering. Check your buffs to see if your taming buff is red or green!\r\n\r\n\"Why am I dying so much?\"\r\n-DOX2 is tough by design! Stack up traits, armor, pygmys, and upgrades.\r\n\r\n\"How do I see my tame's stats and buffs?\"\r\n-Open your tame's inventory and use \"Show Buffs.\"\r\n\r\n\"How do I progress early?\"\r\n-Build safe, kill small creatures for XP, don't rush tames, always prepare for setbacks, and focus on upgrading your power sources!"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "<RichColor Color=\"1,0.2,0.72,1\">\"How to Tame\" Video</>",
+				"url": "https://www.youtube.com/watch?v=iyAHjiosM8o&list=PL-lJKbdoWs2lfrhvpyfg561656SBn8d3Y&index=3&pp=iAQB"
+			},
+			{
+				"text": "<RichColor Color=\"1,0.2,0.72,1\">\"How to Get Traits\" Video</>",
+				"url": "https://www.youtube.com/watch?v=F6deI7-gjiw&list=PL-lJKbdoWs2lfrhvpyfg561656SBn8d3Y&index=2&pp=iAQB"
+			},
+			{
+				"text": "<RichColor Color=\"1,0.2,0.72,1\">\"How to Tame Legacy Alphas\" Video</>",
+				"url": "https://www.youtube.com/watch?v=NoA232LqoI0&list=PL-lJKbdoWs2lfrhvpyfg561656SBn8d3Y&index=1&pp=iAQB"
+			}
+		],
+		"version": 2
+	}
 }
