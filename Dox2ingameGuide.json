@@ -22,7 +22,7 @@
 
       "openonstartonlynewplayers": true,
 
-      "updateinterval": 2
+      "updateinterval": .1
 
     },
 
@@ -151,3 +151,4 @@
   }
 
 }
+
